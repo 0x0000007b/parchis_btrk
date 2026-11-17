@@ -1,0 +1,6 @@
+{
+  "name": "Дворовый Парчис",
+  "description": "Настольная игра Парчис на фанерной доске для 2–4 игроков (Pass & Play)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
